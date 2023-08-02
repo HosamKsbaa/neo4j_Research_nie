@@ -5,3 +5,5 @@
 <http://purl.org/twc/graph4code/se85> <http://purl.org/twc/graph4code/sourceLines> "data = pd.read_csv(\"../input/chinese_liver_patient.csv\", low_memory=False)" <http://github/test/test> .
 <http://purl.org/twc/graph4code/se85> <http://purl.org/twc/graph4code/normalizedLabel> "pandas.core.frame.DataFrame" <http://github/test/test> .
 <http://purl.org/twc/graph4code/se85> <http://purl.org/twc/graph4code/valueNames> "data" <http://github/test/test> .
+_:node1 <http://purl.org/twc/graph4code/se95> <http://semanticscience.org/resource/SIO_000230> "rbf" .
+_:node1 <http://semanticscience.org/resource/SIO_000613> "1" <http://github/test/test> .
