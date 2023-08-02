@@ -1,0 +1,7 @@
+<http://purl.org/twc/graph4code/se85> <http://schema.org/about> "read_csv" <http://github/test/test> .
+<http://purl.org/twc/graph4code/se85> <http://www.w3.org/2000/01/rdf-schema#label> "pandas.read_csv." <http://github/test/test> .
+<http://purl.org/twc/graph4code/se85> <http://semanticscience.org/resource/SIO_000061> "{\"lastLine\":6,\"firstCol\":7,\"lastOffset\":220,\"lastCol\":74,\"firstOffset\":153,\"url\":\"file:/tmp/e2.py\",\"firstLine\":6}" <http://github/test/test> .
+<http://purl.org/twc/graph4code/se85> <http://schema.org/text> "pd.read_csv(\"../input/chinese_liver_patient.csv\", low_memory=False)" <http://github/test/test> .
+<http://purl.org/twc/graph4code/se85> <http://purl.org/twc/graph4code/sourceLines> "data = pd.read_csv(\"../input/chinese_liver_patient.csv\", low_memory=False)" <http://github/test/test> .
+<http://purl.org/twc/graph4code/se85> <http://purl.org/twc/graph4code/normalizedLabel> "pandas.core.frame.DataFrame" <http://github/test/test> .
+<http://purl.org/twc/graph4code/se85> <http://purl.org/twc/graph4code/valueNames> "data" <http://github/test/test> .
