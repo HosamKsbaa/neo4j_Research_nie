@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  testneo4j:
+    image: neo4j:latest
+    container_name: testneo4j
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+  
+    environment:
+      - NEO4J_AUTH=none
+      - NEO4J_PLUGINS='["apoc", "n10s"]' # Use NEO4J_PLUGINS instead of NEO4JLABS_PLUGINS
+ 
