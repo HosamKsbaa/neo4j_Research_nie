@@ -1,9 +1,5 @@
-Sure! Here's the same content formatted as Markdown:
 
-# Neo4j Research README
 
-## Overview
-This repository contains research work using Neo4j, a graph database, to analyze data from a sample graph obtained from the Graph4Code project on GitHub. This README provides instructions on how to set up the Neo4j environment and execute queries to explore the data.
 
 ## Requirements
 - Docker installed on your system.
