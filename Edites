@@ -1,0 +1,2 @@
+sudo -u root neo4j start
+dbms.memory.transaction.total.max=0
